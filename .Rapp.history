@@ -1,0 +1,3 @@
+setwd("/Users/xinkaidu/Documents/Git/Conference contributions/chuanpeng_R")
+data <- read_delim("data.csv", ";",
+"Anhedonia")
